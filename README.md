@@ -9,9 +9,10 @@ There are two main commands 'key' and 'check'.
 ### Key
 The commands derived from 'key' are related to the use of the API key.
 
-Run this command to set the key and enable the 'check' command. Without a key, it won't work.
-Get a key at https://nomics.com
+Run this command to set the key and enable the 'check' command. 
 `cryprice key set`
+
+Without a key, it won't work. Get a key at https://nomics.com
 
 Run this command to show the current key.
 `cryprice key show`
