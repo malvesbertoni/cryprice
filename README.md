@@ -71,6 +71,7 @@ cryprice check price --coin='LTC,EOS,BNB,XTZ' --cur='AUD'
   * Inquirer
   * Configstore
   * Colors
+  * Axios
 
 ## Credits
 TraversyMedia and [Nomics](https://nomics.com)
