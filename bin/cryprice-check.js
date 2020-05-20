@@ -1,6 +1,12 @@
+//---------------- CHECK CORE FILE -----------------
+// Establishes the 'check' child-command: 'price'. 
+//--------------------------------------------------
+
+// Loading requirements
 const program = require('commander');
 const check = require('../commands/check');
 
+// Establishing the child-command
 program
     .command('price')
     .description('Checks the price of crypto-coins')
